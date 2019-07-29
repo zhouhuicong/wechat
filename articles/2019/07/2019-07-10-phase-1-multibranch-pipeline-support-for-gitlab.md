@@ -1,6 +1,6 @@
 ---
 title: "多分支流水线任务对 GitLab SCM 的支持"
-description: "本文介绍了多分支流水线任务对 GitLab SCM 的支持"
+description: "本文介绍了多分支流水线任务对 GitLab SCM 的支持" 
 date: 2019-07-04
 tags:
 - gitlab
